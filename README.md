@@ -4,6 +4,7 @@ PORTFOLIO
 About Me
 I have completed a data analytics and storytelling course and an Excel course. I am now practicing my skills through hands-on projects using real-world datasets.
 My Learning Goals
+
 - Practice data analysis using Excel and SQL.
 - Learn to communicate findings through clear data storytelling.
 - Develop practical skills in data cleaning, analysis, and visualization.
