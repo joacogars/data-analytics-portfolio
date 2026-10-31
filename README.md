@@ -3,6 +3,7 @@ Data Analytics and Storytelling Projects &amp; Assistant Bot
 PORTFOLIO
 
 About Me
+
 I have completed a data analytics and storytelling course and an Excel course. I am now practicing my skills through hands-on projects using real-world datasets.
 My Learning Goals
 
