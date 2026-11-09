@@ -24,7 +24,7 @@ This portfolio will grow as I complete projects and develop my skills.
 ## Project 1: Online Retail Sales Analysis
 
 **Project Status**
-Day 1 — Project planning
+Day 1 — Project Status: Excel exploration and initial analysis completed. Findings documentation and portfolio presentation in progress.
 
 **Business Question**
 What can historical sales transactions tell us about sales trends, popular products, and customer purchasing behavior?
@@ -56,7 +56,7 @@ The dataset contains historical transactions from a UK-based online retailer sel
 The dataset covers a historical period. Recorded revenue does not necessarily equal profit, and missing customer identifiers may limit customer-level analysis.
 
 ### Findings
-Not yet analyzed. Results and recommendations will be added after the analysis is complete.
+Initial analysis identified monthly sales patterns and differences in recorded sales by country. Further validation and interpretation are ongoing.
 
 **Dataset Attribution**
 Chen, D. (2015). Online Retail. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
@@ -72,11 +72,12 @@ Chen, D. (2015). Online Retail. UCI Machine Learning Repository. https://doi.org
 - Expected records: 541,909
 
 ### Initial Observations
-- First rows inspected: [fill in]
-- Date format observed: [fill in]
-- Missing customer identifiers noticed: [yes/no/not checked]
-- Unusual quantities or prices noticed: [fill in]
-- Questions to investigate: [fill in]
+Dataset contains 541,909 records and 8 columns.
+Inspected sample rows 100, 500 and 1,000.
+Date and decimal-comma formats were observed in Excel.
+Date and decimal-comma formats were observed in Excel.
+Missing CustomerIDs and missing product descriptions were identified.
+No original transaction records were deleted or modified during initial exploration.
 
 ### Changes Made
 No data-cleaning changes made during initial exploration.
