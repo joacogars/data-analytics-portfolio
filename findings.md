@@ -33,4 +33,21 @@ The December 2011 figure should not be directly compared with complete months wi
 
 Chen, D. (2015). *Online Retail*. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33
 
-The United Kingdom generated the highest recorded sales value, approximately £8.19 million, representing around 84% of the overall recorded transaction value. The Netherlands ranked second, followed by EIRE, Germany and France. This indicates a strong concentration of recorded sales in the UK market.
+## Country Analysis: Recorded Sales Value
+
+A PivotTable was used to compare recorded sales values across countries.
+
+### Key findings
+
+- United Kingdom: £8,187,806.364 — ranked first.
+- Netherlands: £284,661.54 — ranked second.
+- EIRE, Germany and France followed in the ranking.
+- The UK accounted for approximately 84% of the overall recorded transaction value.
+
+### Business interpretation
+
+The recorded transaction values are strongly concentrated in the United Kingdom market. The Netherlands ranked second, but its recorded value was substantially lower than the UK's.
+
+### Limitation
+
+These figures include cancellation invoices and negative-quantity records. They represent recorded transaction values, not verified net revenue or profit.
