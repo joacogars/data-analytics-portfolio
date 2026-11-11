@@ -14,6 +14,7 @@ My Learning Goals
 **Projects**
 
 Project 1: Online Retail Sales Analysis
+[Read the detailed findings](findings.md)
 **Status:** Planning
 **Objective:** Explore historical retail transactions to understand sales trends, product performance, and customer purchasing behavior.
 **Tools:** Excel and SQL, with additional tools to be considered as I progress.
@@ -24,7 +25,8 @@ This portfolio will grow as I complete projects and develop my skills.
 ## Project 1: Online Retail Sales Analysis
 
 **Project Status**
-Day 1 — Project Status: Excel exploration and initial analysis completed. Findings documentation and portfolio presentation in progress.
+**Project Status:** Initial Excel analysis completed. Findings documented; portfolio presentation and final review in progress.
+
 
 **Business Question**
 What can historical sales transactions tell us about sales trends, popular products, and customer purchasing behavior?
@@ -55,8 +57,13 @@ The dataset contains historical transactions from a UK-based online retailer sel
 **Limitations**
 The dataset covers a historical period. Recorded revenue does not necessarily equal profit, and missing customer identifiers may limit customer-level analysis.
 
-### Findings
-Initial analysis identified monthly sales patterns and differences in recorded sales by country. Further validation and interpretation are ongoing.
+### Key Findings
+
+- **Monthly analysis:** November 2011 had the highest recorded monthly transaction value.
+- **Product analysis:** DOTCOM POSTAGE ranked first by recorded line value, followed by REGENCY CAKESTAND 3 TIER.
+- **Country analysis:** The United Kingdom ranked first, followed by the Netherlands.
+
+These are preliminary recorded transaction values, not verified profit or definitive net revenue. The analysis includes cancellation invoices and negative quantities. December 2011 is also incomplete.
 
 **Dataset Attribution**
 Chen, D. (2015). Online Retail. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
@@ -96,10 +103,10 @@ No data-cleaning changes made during initial exploration.
 
 Rows inspected: 100, 500, 1000
 
-- Cancellation invoice observed: [Yes / No / Not sure]
-- Negative quantities observed: [Yes / No / Not sure]
-- Zero prices observed: [Yes / No / Not sure]
-- Blank customer IDs observed: [Yes / No / Not sure]
+- Cancellation invoice observed: Yes
+- Negative quantities observed: Yes
+- Zero prices observed: Not Yet Checked
+- Blank customer IDs observed: Yes, identified in the wider data-quality check.
 
 No records have been deleted or modified.
 
