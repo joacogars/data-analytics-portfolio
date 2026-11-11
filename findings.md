@@ -51,3 +51,20 @@ The recorded transaction values are strongly concentrated in the United Kingdom 
 ### Limitation
 
 These figures include cancellation invoices and negative-quantity records. They represent recorded transaction values, not verified net revenue or profit.
+
+## Customer Analysis: Top 10 Customers by Recorded Sales Value
+
+A PivotTable was used to rank identifiable customers by the sum of `LineValue`.
+
+### Key findings
+
+- Customer 14646 ranked first, with a recorded value of £279,489.02.
+- A horizontal bar chart was created to compare the ten highest-ranked customers.
+
+### Business interpretation
+
+Customer 14646 contributed the highest recorded transaction value among identifiable customers. This provides a starting point for investigating customer concentration and purchasing behaviour.
+
+### Limitations
+
+The analysis excludes records with missing CustomerIDs. Recorded values include cancellation invoices and negative quantities, so they should not be interpreted as verified customer spending or profit.
