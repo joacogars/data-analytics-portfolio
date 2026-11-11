@@ -60,6 +60,7 @@ A PivotTable was used to rank identifiable customers by the sum of `LineValue`.
 
 - Customer 14646 ranked first, with a recorded value of £279,489.02.
 - A horizontal bar chart was created to compare the ten highest-ranked customers.
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/2901774c-db05-4cba-b1f8-e0540076d94c" />
 
 ### Business interpretation
 
